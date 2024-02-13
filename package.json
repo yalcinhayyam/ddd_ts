@@ -18,6 +18,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "mediatr-ts": "^1.2.1",
     "uuid": "^9.0.1"
   }
 }
